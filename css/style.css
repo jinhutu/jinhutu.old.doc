@@ -6,7 +6,7 @@
  * @link http://chopstack.com
  */
 body {
-  background-color: #FFF;
+  background-color: #FFFFF0;
   color: #444;
   font-family: "TIBch", "Classic Grotesque W01", "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -236,9 +236,9 @@ a:focus {
       position: relative; }
     .post .post-content img {
       max-width: 100%;
-      padding: 0.5em 0;
+      padding: 0.5em 2em;
       margin: auto;
-      display: block; }
+      display: inline-block; }
     .post .post-content ul, .post .post-content ol {
       border-radius: 3px;
       margin: 1em 0; }
